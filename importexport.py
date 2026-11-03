@@ -15,7 +15,7 @@ BASE_DIR = Path(__file__).parent.resolve()
 DB_PATH = str(BASE_DIR / "database_hasil5" / "database.sqlite")
 RSS_FILE = str(BASE_DIR / "rss_list.txt")
 OUTPUT_DIR = str(BASE_DIR)
-BASE_URL = "https://railfansday.github.io/newera2" # ⚠️ SESUAIKAN NAMA REPO
+BASE_URL = "https://railfansday.github.io/spesial3" # ⚠️ SESUAIKAN NAMA REPO
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
